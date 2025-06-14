@@ -28,3 +28,4 @@ let numeros = [1, 2, 3, 4, 5];
 function calcularPrecoComDesconto(produto) {
     return produto.preco * (1 - produto.desconto);
 }
+
